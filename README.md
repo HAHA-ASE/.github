@@ -1,1 +1,3 @@
-# Wellcum to HAHA
+# Home Automation & Health Analysis
+## Course: Advanced Software Engineering
+## University: AAU
